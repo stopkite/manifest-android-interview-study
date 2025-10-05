@@ -15,14 +15,14 @@
 
 | 주차  | 주제                                                                                       | 예정일        | 완료 |
 | ----- | ------------------------------------------------------------------------------------------ | ------------- | ----- |
-| **1주차** | 0) 안드로이드란 무엇인가요?<br/>1) 인텐트(Intent)란 무엇인가요?<br/>2) PendingIntent의 목적은 무엇인가요? | 2025.09.14 | ☑️ |
-| **2주차** | 3) Serializable과 Parcelable의 차이점은 무엇인가요?<br/>4) Context란 무엇이며 어떤 유형의 Context가 있나요?<br/>5) Application 클래스란 무엇인가요? | 2025.09.21 | ☑️ |
-| **3주차** | 6) AndroidManifest 파일의 목적은 무엇인가요?<br/>7) Activity 생명주기를 설명해주세요<br/>8) Fragment 생명주기를 설명해주세요 | 2025.09.28 | ☑️ |
-| **4주차** | 9) Service란 무엇인가요?<br/>10) BroadcastReceiver란 무엇인가요?<br/>11) ContentProvider의 목적은 무엇이며, 애플리케이션 간의 안전한 데이터 공유를 어떻게 용이하게 하나요? | 2025.10.12 | ⬜ |
-| **5주차** | 12) 구성 변경(Configuration Changes)을 어떻게 처리하나요?<br/>13) 메모리를 효율적으로 관리하고 메모리 누수를 방지하는 방법은?<br/>14) ANR이란 무엇이며, 주요 원인과 예방법은 무엇인가요? | 2025.10.12 | ⬜ |
-| **6주차** | 15) 딥 링크(Deep Links)는 어떻게 처리하나요?<br/>16) 태스크(Tasks)와 백 스택(Back Stack)이란 무엇인가요?<br/>17) Bundle의 사용 목적은 무엇인가요? | 2025.10.19 | ⬜ |
-| **7주차** | 18) Activity 또는 Fragment 간 데이터 전달 방법은?<br/>19) 화면 회전 등 구성 변경 시 Activity의 변화는?<br/>20) ActivityManager란 무엇인가요? | 2025.10.26 | ⬜ |
-| **8주차** | 21) SparseArray의 장점은?<br/>22) 런타임 권한(Runtime Permissions) 처리 방식은?<br/>23) Looper, Handler, HandlerThread의 역할은? | 2025.11.02 | ⬜ |
+| **1주차** | 0) 안드로이드란 무엇인가요?<br/>1) 인텐트(Intent)란 무엇인가요?<br/>2) PendingIntent의 목적은 무엇인가요? | 25/09/14 | ☑️ |
+| **2주차** | 3) Serializable과 Parcelable의 차이점은 무엇인가요?<br/>4) Context란 무엇이며 어떤 유형의 Context가 있나요?<br/>5) Application 클래스란 무엇인가요? | 25/09/21 | ☑️ |
+| **3주차** | 6) AndroidManifest 파일의 목적은 무엇인가요?<br/>7) Activity 생명주기를 설명해주세요<br/>8) Fragment 생명주기를 설명해주세요 | 25/09/28 | ☑️ |
+| **4주차** | 9) Service란 무엇인가요?<br/>10) BroadcastReceiver란 무엇인가요?<br/>11) ContentProvider의 목적은 무엇이며, 애플리케이션 간의 안전한 데이터 공유를 어떻게 용이하게 하나요? | 25/10/12 | ⬜ |
+| **5주차** | 12) 구성 변경(Configuration Changes)을 어떻게 처리하나요?<br/>13) 메모리를 효율적으로 관리하고 메모리 누수를 방지하는 방법은?<br/>14) ANR이란 무엇이며, 주요 원인과 예방법은 무엇인가요? | 25/10/12 | ⬜ |
+| **6주차** | 15) 딥 링크(Deep Links)는 어떻게 처리하나요?<br/>16) 태스크(Tasks)와 백 스택(Back Stack)이란 무엇인가요?<br/>17) Bundle의 사용 목적은 무엇인가요? | 25/10/19 | ⬜ |
+| **7주차** | 18) Activity 또는 Fragment 간 데이터 전달 방법은?<br/>19) 화면 회전 등 구성 변경 시 Activity의 변화는?<br/>20) ActivityManager란 무엇인가요? | 25/10/26 | ⬜ |
+| **8주차** | 21) SparseArray의 장점은?<br/>22) 런타임 권한(Runtime Permissions) 처리 방식은?<br/>23) Looper, Handler, HandlerThread의 역할은? | 25/11/02 | ⬜ |
 
 ## 📁 디렉토리 구조
 
